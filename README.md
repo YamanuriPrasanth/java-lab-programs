@@ -1,2 +1,2 @@
-# DS-through-java
+# java lab programs
 You will get programs
